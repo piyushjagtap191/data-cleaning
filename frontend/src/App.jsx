@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const apiBase = "http://localhost:8000";
+const apiBase = "https://data-cleaning-j8b9.onrender.com";
 
 function FileUploadSection({ label, endpoint, downloadName }) {
   const [file, setFile] = useState(null);
