@@ -58,7 +58,9 @@ def upload_frpo(file: UploadFile = File(...)):
         "Farukhnagar F2 - Feeder Warehouse": "Gurgaon", 
         "Pune P2 - Feeder Warehouse": "Pune", 
         "Mumbai M10 - Feeder Warehouse": "Mumbai", 
-        "Bengaluru B4 - Feeder Warehouse": "Bengaluru", 
+        "Bengaluru B4 - Feeder Warehouse": "Bengaluru",
+        "Bengaluru B3 - Feeder Warehouse": "Bengaluru", 
+ 
         "Farukhnagar - SR Feeder Warehouse": "Jhajjar", 
         "Pune P3 - Feeder Warehouse": "Pune", 
         "Visakhapatnam V1 - Feeder Warehouse": "Visakhapatnam", 
@@ -80,7 +82,12 @@ def upload_frpo(file: UploadFile = File(...)):
         "Super Store Lucknow L4 - Warehouse": "Lucknow", 
         "Ludhiana L2 - Feeder Warehouse": "Ludhiana", 
         "Lucknow L5 - Feeder Warehouse": "Lucknow", 
-        "Kolkata K5 - Feeder Warehouse": "Kolkata", 
+        "Kolkata K5 - Feeder Warehouse": "Kolkata",
+        "Kolkata K6 - Feeder Warehouse": "Kolkata", 
+        "Mumbai M10 - Feeder Warehouse": "Mumbai",
+        "Mumbai M11 - Feeder Warehouse": "Mumbai",
+
+ 
         "Goa G2 - Feeder Warehouse": "Goa", 
         "Patna P1 - Feeder Warehouse": "Patna"
     }
@@ -93,7 +100,8 @@ def upload_frpo(file: UploadFile = File(...)):
         "Bhopal B1 - Feeder Warehouse": 3821, 
         "Pune P2 - Feeder Warehouse": 1872, 
         "Kundli - Feeder Warehouse": 2010, 
-        "Noida N1 - Feeder Warehouse": 2576, 
+        "Noida N1 - Feeder Warehouse": 2576,
+        "Indore - Feeder Warehouse": "2006", 
         "Nagpur N1 - Feeder Warehouse": 2468, 
         "Ahmedabad A2 - Feeder Warehouse": 2470, 
         "Varanasi V1 - Feeder Warehouse": 4571, 
@@ -116,8 +124,13 @@ def upload_frpo(file: UploadFile = File(...)):
         "Ludhiana L2 - Feeder Warehouse": 2947, 
         "Chennai C5 - Feeder Warehouse": 3262, 
         "Dasna D3 - Feeder Warehouse": 2469, 
-        "Kolkata K4 - Feeder Warehouse": 2015, 
-        "Jaipur J3 - Feeder Warehouse": 3200
+        "Kolkata K4 - Feeder Warehouse": 2015,
+        "Patna P1 - Feeder Warehouse": 2015,
+
+        "Mumbai M10 - Feeder Warehouse": 2123,
+        "Mumbai M11 - Feeder Warehouse": 3164,
+       
+        "Jaipur J3 - Feeder Warehouse": 2960
     }
 
     # Map city and facility_id
