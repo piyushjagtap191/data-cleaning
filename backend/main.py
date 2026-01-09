@@ -129,7 +129,7 @@ def upload_frpo(file: UploadFile = File(...)):
 
         "Mumbai M10 - Feeder Warehouse": 2123,
         "Mumbai M11 - Feeder Warehouse": 3164,
-       
+        "Kolkata K6 - Feeder Warehouse": 4842,
         "Jaipur J3 - Feeder Warehouse": 2960
     }
 
