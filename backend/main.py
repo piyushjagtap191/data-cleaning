@@ -60,6 +60,7 @@ def upload_frpo(file: UploadFile = File(...)):
         "Mumbai M10 - Feeder Warehouse": "Mumbai", 
         "Bengaluru B4 - Feeder Warehouse": "Bengaluru",
         "Bengaluru B3 - Feeder Warehouse": "Bengaluru", 
+        "Bhubaneswar B1 - Feeder Warehouse": "Bhubaneswar",
  
         "Farukhnagar - SR Feeder Warehouse": "Jhajjar", 
         "Pune P3 - Feeder Warehouse": "Pune", 
@@ -114,6 +115,8 @@ def upload_frpo(file: UploadFile = File(...)):
         "Bengaluru B4 - Feeder Warehouse": 2142, 
         "Guwahati G1 - Feeder Warehouse": 3213, 
         "Goa G2 - Feeder Warehouse": 4449, 
+        "Goa G2 - Feeder Warehouse": 4729,
+        
         "Farukhnagar - SR Feeder Warehouse": 264, 
         "Farukhnagar F2 - Feeder Warehouse": 3126, 
         "Visakhapatnam V1 - Feeder Warehouse": 3127, 
