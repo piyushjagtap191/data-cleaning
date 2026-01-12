@@ -100,6 +100,9 @@ def upload_frpo(file: UploadFile = File(...)):
         "Pune P3 - Feeder Warehouse": 4572, 
         "Bhopal B1 - Feeder Warehouse": 3821, 
         "Pune P2 - Feeder Warehouse": 1872, 
+        
+        "Bhubaneswar B1 - Feeder Warehouse": 3127, 
+
         "Kundli - Feeder Warehouse": 2010, 
         "Noida N1 - Feeder Warehouse": 2576,
         "Indore - Feeder Warehouse": "2006", 
